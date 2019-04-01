@@ -1,5 +1,8 @@
 # hello-jd
 jd homepage
 
-Hello, everyone! This is a front-end page imitating the homepage of jingdong written by myself. 
-By the way if there are any shortcomings, you can point them out at your own pleasure.
+本项目是一个适合初级前端开发工程师汇总基础知识点的一个成熟的web项目，封装了兼容各主流浏览器的JS语法包base.js
+1、使用H+C完成页面的总体布局和样式设计，实现数据渲染和各大功能模块的设计                    
+2、采用JavaScript+ES6，结合事件驱动编程风格，实现mouseover事件弹出送达地址选择菜单、我的京东、网址导航及main-part的全部商品列表；                  
+3、使用定时器setInterval实现main-part及各商品楼层轮播商家活动，热门商品信息自动滚动等功能模块的实现                    
+4、合理使用BOM核心事件window的各种指令和服务实现页面的合理化加载，并封装a标签附加JavaScript伪协议函数，优化页面性能
